@@ -13,45 +13,10 @@ username: happylivingco #github username
 repo: happylivingco.github.io #github repository
 branch: master #branch
 relative_source: ../agency-jekyll-theme-gh-pages/ #source directory
-destination: ../agency-pages/ #destination directory
+destination: ../agency-pages #destination directory
 production_url:  https://happylivingco.github.io/
-source_url:  https://github.com/happylivingco/happylivingco.github.io/hanuman #source repository url
+source_url:  https://github.com/happylivingco/happylivingco.github.io #source repository url
 
-
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
