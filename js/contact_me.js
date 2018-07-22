@@ -18,7 +18,7 @@ $(function() {
                 firstName = name.split(' ').slice(0, -1).join(' ');
             }
             $.ajax({
-                url: "././mail/contact_me.php",
+                url: "https://jvgrbof561.execute-api.us-west-2.amazonaws.com/happylivingEmailSenderApiStage",
                 type: "POST",
                 data: {
                     name: name,
